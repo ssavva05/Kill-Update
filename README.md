@@ -1,3 +1,9 @@
+1) use cleanUpdates.bad
+2) cntr+R and add shell:startup 
+3) copy paste the kill.exe
+4) right click properties click run as admin box
+5) Right click run it as admin
+
 # Kill-Update
 Prevents Windows 10 from updating. Can be manually disabled when updating is convenient.
 
